@@ -8,4 +8,4 @@ image:
   feature: soft-trees.jpg
 ---
 
-**__This page will be updated soon...__**
+**_This page will be updated soon..._**
